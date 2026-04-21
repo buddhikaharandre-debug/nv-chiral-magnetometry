@@ -1,0 +1,2 @@
+Frame Number,Time (s),Left Angle (°),Right Angle (°),Average Angle (°),Left RMSE,Right RMSE,Left Contact Point (Pixel),Right Contact Point (Pixel),Droplet Width (Pixels)
+0.0,0.0,59.64,58.33,58.99,0.5385718839400265,0.5557721426543638,682.5,872.5,190.0
